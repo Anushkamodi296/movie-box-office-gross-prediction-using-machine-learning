@@ -91,17 +91,3 @@ Then open http://127.0.0.1:5000 in your browser to access the app.
 
 [TMDB 5000 Movie Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
-
-## 👨‍💻 Authors
-
-- **Shanmukh Venkata Nutulapati**  
-  📧 [nvshanmukh28@gmail.com](mailto:nvshanmukh28@gmail.com)  
-  🔗 [GitHub: nvshanmukh](https://github.com/nvshanmukh)
-
-- **Sekharamahanthi Sai Yeshwin**  
-  📧 [saiyeshwin@gmail.com](mailto:saiyeshwin@gmail.com)  
-  🔗 [GitHub: saiyeshwin](https://github.com/saiyeshwin)
-
-- **Ritesh Kandra Reddy**  
-  📧 [riteshreddy147@gmail.com](mailto:riteshreddy147@gmail.com)  
-  🔗 [GitHub: Ritesh1147](https://github.com/Ritesh1147)
